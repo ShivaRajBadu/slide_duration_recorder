@@ -22,14 +22,14 @@ SlideShow Recorder is a web application that allows users to create video record
 
 ## Installation
 
-    ```bash
-
+```bash
 npm install
-
-````
+```
 
 ## Usage
 
 ```bash
 npm run dev
-````
+```
+
+
